@@ -1,8 +1,3 @@
-<div align="center">
-<img
-  src="6887306.png"
-  style="display: inline-block; margin: 0 auto; max-width: 50px">
-<img align="top" 
 
   ### 
 
