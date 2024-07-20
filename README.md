@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="sychonix.jpg"
+  src="uklogo.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 <img align="top" 
 
