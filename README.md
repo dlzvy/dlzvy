@@ -2,7 +2,7 @@
   ### 
 
 <h1 align="center">Hi , I'm dlzvy</h1>
-<h3 align="center">As a node validator for 3 year, I have gained experience and competence in validating transactions and ensuring the security of the blockchain network. Through proactive and responsive actions, I have maintained a high reputation as a reliable and trustworthy validator. I continuously strive to improve service quality and ensure stable performance to meet industry standards</h3>
+<h3 align="center">As a validator node for several years, I have gained experience and competence in validating transactions and ensuring the security of the blockchain network. Through proactive and responsive actions, I have maintained a high reputation as a reliable and trustworthy validator. I continuously strive to improve service quality and ensure stable performance to meet industry standards</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dlzvy&label=Profile%20views&color=0e75b6&style=flat" alt="dlzvy" /> </p>
 
