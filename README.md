@@ -31,7 +31,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlzvy&theme=radical" alt="Contribution Streak" />
 </div>
 
 ## 🌐 Connect with Me
