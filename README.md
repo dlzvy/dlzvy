@@ -28,11 +28,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dlzvy&theme=radical" alt="Contribution Streak" />
+## 📊 GitHub Stats
+<div>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dlzvy&theme=merko&show_icons=true&hide_border=false&count_private=true&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzvy&theme=merko&show_icons=true&hide_border=false&layout=compact&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
 </div>
+<br clear="both"/>
 
 ## 🌐 Connect with Me
 
