@@ -54,7 +54,7 @@
 <br clear="both"/>
 
 ## 🌐 Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://x.com/XBerryAO)
+[![X](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=x)](https://x.com/XBerryAO)
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/dlzvy)
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)](https://discord.com/invite/hdTnp6Ep)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:brianjovandi@gmail.com)
