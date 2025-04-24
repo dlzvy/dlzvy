@@ -47,10 +47,7 @@
 
 
 ## 📊 GitHub Stats
-<div>
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dlzvy&theme=merko&show_icons=true&hide_border=false&count_private=true&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzvy&theme=merko&show_icons=true&hide_border=false&layout=compact&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
-</div>
+  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzvy&theme=merko&show_icons=true&hide_border=false&layout=compact&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
 <br clear="both"/>
 
 ## 🌐 Connect with Me
