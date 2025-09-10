@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=dlzvy&label=Profile+View&color=ff4500&style=for-the-badge" alt="Profile Views" />
 </div>
 
-### 💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -20,7 +20,7 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)
 
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 #### Web Frameworks
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
@@ -28,7 +28,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Vite.js](https://img.shields.io/badge/-Vite.js-05122A?style=flat&logo=vite)
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
@@ -46,7 +46,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
   <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlzvy&theme=merko&show_icons=true&hide_border=false&layout=compact&border_color=2e8b57&bg_color=0D1117&text_color=98FB98" />
 <br clear="both"/>
 
