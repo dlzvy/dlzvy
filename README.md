@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+I'm+XBerry;" alt="Typing SVG" />
   </a>
 </h1>
-<h3 align="center">As a validator node for several years, I have gained experience and competence in validating transactions and ensuring the security of the blockchain network. Through proactive and responsive actions, I have maintained a high reputation as a reliable and trustworthy validator. I continuously strive to improve service quality and ensure stable performance to meet industry standards</h3>
+<h3 align="center">Passionate about blockchain and web3, focusing on learning, growing, with the crypto community</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dlzvy&label=Profile+View&color=ff4500&style=for-the-badge" alt="Profile Views" />
 </div>
