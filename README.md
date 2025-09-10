@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+I'm+XBerry;" alt="Typing SVG" />
   </a>
 </h1>
-<h3 align="center">Passionate about blockchain and web3, focusing on learning, growing, with the crypto community</h3>
+<h3 align="center">Rethink Rebuild Refocus Repeat</h3>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dlzvy&label=Profile+View&color=ff4500&style=for-the-badge" alt="Profile Views" />
 </div>
